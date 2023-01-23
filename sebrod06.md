@@ -26,6 +26,7 @@ make the eyes move both up and down and left and right, and then the electrical 
 I plan on 3D printing all the separate parts I need first, and sanding them down as they get printed. This is probably going to be the most time-consuming part of the project, so I estimate that this will take anywhere from 2-5 days. Once all the 3D prints are done and sanded down, I need to make sure that the printed parts have holes big enough for the screws that need to get through them, and if not, drill in a bigger hole with the vice hand drill (1 day max of worktime). Now, I can start the fun assembly part of the components; Because of how small the screws are and how there are multiple that needs to be screwed in for the assmebly, I estimate that this should take me about 1-2 days as well. Similarly, the wiring assembly will also be fun and should only take me about 1-2 days, because Will Cogley has graciously provided a wiring diagram for the different electrical components needed for this project. 
 
 Not mentioned above is the process for the actual eyeballs. I have the .stl file for the eyeball adapter, which will hold the eyeball in this specific project, and the .stl file for the eyeball is in another video tutorial of Will's (also linked below). To get the best results, I would need an airbrush to get the different colored layers that an eye usually has, along with the detailed pupil. However, airbrushes and the paint needed for them are really expensive, so I'm actively working on finding out if an art teacher at my school has one, or alternatives to painting the eyes. 
+UPDATE: I'm going to spray the 3D printed eyeballs with white spray paint primer and then paint the eyeballs, as needed, with acrylic paints so that it looks as realistic as possible (the airbrush is too expensive to obtain).
 
 Lastly, I'm still brainstorming ideas for what character/creature I can put this animatronic eye mechanism to work into. My initial thought was creating a Garfield-like face model, since eyes would fully capture Garfield's laziness and sassiness. I am open to other ideas though, maybe a spooky, Halloween creature?
 
@@ -52,8 +53,12 @@ What materials will you need for your project? Where will you get them? How much
 | Vice Hand Drill | https://a.co/d/3OBzrHR                | $14.99 |
 | Two PLA 3d printer filament rolls | https://a.co/d/cvm7gu7 | $43.84 |
 | Sandpaper       | https://a.co/d/8189JYr                | $5.99  |
+| Spray Paint Primer | https://a.co/d/fKvTip8             | $5.98  |
+| Acrylic Paints  | https://a.co/d/1pjhtSt                | $6.99  |
 | 3D Printer      | I have access to multiple             |  n/a   |
 | Total           | Total x 1.0825 tax rate               | $244.30 |
+
+With the sales on Amazon and the added materials... the total came out to be $244.59
 
 Shipping will be free since they are all components from Amazon!
 NOTE: The prices are the highest-listed price I saw on Amazon... the prices seem to either fluctuate or be on sale on Amazon, but that total cost is an estimated maximum cost for everything.
