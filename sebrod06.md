@@ -58,7 +58,7 @@ What materials will you need for your project? Where will you get them? How much
 | 3D Printer      | I have access to multiple             |  n/a   |
 | Total           | Total x 1.0825 tax rate               | $244.30 |
 
-With the sales on Amazon and the added materials... the total came out to be $244.59
+With the sales on Amazon and the added materials... the total came out to be $234.64
 
 Shipping will be free since they are all components from Amazon!
 NOTE: The prices are the highest-listed price I saw on Amazon... the prices seem to either fluctuate or be on sale on Amazon, but that total cost is an estimated maximum cost for everything.
