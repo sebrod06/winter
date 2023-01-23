@@ -40,7 +40,7 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 10 Micro servos | https://a.co/d/fYfk7jM                | $30.99 |
-| Various Screws, Botls, etc. | https://a.co/d/9dJbogj    | $29.99 |
+| Various Screws, Bolts, etc. | https://a.co/d/9dJbogj    | $29.99 |
 | Arduino Uno     | https://a.co/d/iAmfgnX                | $29.95 |
 | Servo Driver Board | https://a.co/d/7m5Ft3W             | $20.61 |
 | 5V 4A Power Supply | https://a.co/d/43Hny3w             | $8.99  |
